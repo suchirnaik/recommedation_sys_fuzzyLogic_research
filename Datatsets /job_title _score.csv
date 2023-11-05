@@ -1,0 +1,196 @@
+index,job_title,transaction_count,jobtitle_score
+81,Geologist IV,3.7142857142857144,2
+121,Programmer Analyst I,4.2,3
+3,Account Representative II,4.25,4
+144,Safety Technician IV,4.333333333333333,5
+187,Web Designer I,4.333333333333333,5
+193,Web Developer III,4.375,6
+141,Safety Technician I,4.375,6
+128,Programmer IV,4.4,7
+172,Statistician IV,4.444444444444445,8
+32,Biostatistician III,4.5,9
+52,Database Administrator II,4.5,9
+137,Research Assistant III,4.5,9
+35,Budget/Accounting Analyst II,4.6,10
+105,Media Manager IV,4.666666666666667,11
+68,Engineer IV,4.7,12
+159,Software Test Engineer I,4.7,12
+158,Software Engineer IV,4.8,13
+135,Research Assistant I,4.8,13
+110,Office Assistant I,4.833333333333333,14
+75,GIS Technical Architect,4.863636363636363,15
+175,Systems Administrator I,4.875,16
+17,Administrative Assistant III,4.888888888888889,17
+174,Structural Engineer,4.911764705882353,18
+5,Account Representative IV,4.916666666666667,19
+49,Cost Accountant,4.9655172413793105,20
+15,Administrative Assistant I,5.0,21
+169,Statistician I,5.0,21
+147,Senior Cost Accountant,5.0,21
+190,Web Designer IV,5.1,22
+186,VP Sales,5.103448275862069,23
+148,Senior Developer,5.117647058823529,24
+149,Senior Editor,5.130434782608695,25
+60,Developer III,5.142857142857143,26
+93,Human Resources Manager,5.190476190476191,27
+173,Structural Analysis Engineer,5.238095238095238,28
+59,Developer II,5.25,29
+37,Budget/Accounting Analyst IV,5.25,29
+134,Registered Nurse,5.323529411764706,30
+179,Tax Accountant,5.324324324324325,31
+178,Systems Administrator IV,5.333333333333333,32
+8,Accountant III,5.333333333333333,32
+119,Product Engineer,5.333333333333333,32
+181,Technical Writer,5.354838709677419,33
+150,Senior Financial Analyst,5.366666666666666,34
+182,VP Accounting,5.37037037037037,35
+89,Human Resources Assistant I,5.375,36
+77,Geological Engineer,5.375,36
+33,Biostatistician IV,5.375,36
+76,General Manager,5.4,37
+108,Nurse Practicioner,5.4,37
+165,Staff Accountant II,5.4,37
+129,Project Manager,5.416666666666667,38
+53,Database Administrator III,5.416666666666667,38
+161,Software Test Engineer III,5.416666666666667,38
+64,Electrical Engineer,5.428571428571429,39
+116,Payment Adjustment Coordinator,5.428571428571429,39
+43,Community Outreach Specialist,5.428571428571429,39
+114,Operator,5.434782608695652,40
+2,Account Representative I,5.444444444444445,41
+11,Accounting Assistant II,5.444444444444445,41
+185,VP Quality Control,5.466666666666667,42
+101,Mechanical Systems Engineer,5.470588235294118,43
+55,Dental Hygienist,5.483870967741935,44
+79,Geologist II,5.5,45
+99,Marketing Assistant,5.5,45
+160,Software Test Engineer II,5.5,45
+98,Librarian,5.5,45
+157,Software Engineer III,5.5,45
+4,Account Representative III,5.5,45
+25,Associate Professor,5.514285714285714,46
+180,Teacher,5.518518518518518,47
+115,Paralegal,5.518518518518518,47
+139,Research Associate,5.523809523809524,48
+38,Business Systems Development Analyst,5.525,49
+21,Analyst Programmer,5.526315789473684,50
+22,Assistant Manager,5.538461538461538,51
+88,Help Desk Technician,5.538461538461538,51
+63,Editor,5.5625,52
+162,Software Test Engineer IV,5.571428571428571,53
+57,Desktop Support Technician,5.580645161290323,54
+145,Sales Associate,5.586206896551724,55
+7,Accountant II,5.6,56
+29,Automation Specialist IV,5.6,56
+1,Account Executive,5.6,56
+13,Accounting Assistant IV,5.6,56
+44,Compensation Analyst,5.608695652173913,57
+69,Environmental Specialist,5.608695652173913,57
+166,Staff Accountant III,5.625,58
+168,Staff Scientist,5.64,59
+45,Computer Systems Analyst I,5.642857142857143,60
+74,Food Chemist,5.666666666666667,61
+54,Database Administrator IV,5.666666666666667,61
+103,Media Manager II,5.666666666666667,61
+20,Analog Circuit Design manager,5.666666666666667,61
+62,Director of Sales,5.6923076923076925,62
+146,Sales Representative,5.703703703703703,63
+104,Media Manager III,5.714285714285714,64
+127,Programmer III,5.714285714285714,64
+176,Systems Administrator II,5.714285714285714,64
+23,Assistant Media Planner,5.71875,65
+0,Account Coordinator,5.72,66
+41,Civil Engineer,5.722222222222222,67
+50,Data Coordiator,5.722222222222222,67
+39,Chemical Engineer,5.735294117647059,68
+130,Quality Control Specialist,5.75,69
+95,Internal Auditor,5.75,69
+109,Occupational Therapist,5.764705882352941,70
+184,VP Product Management,5.766666666666667,71
+96,Junior Executive,5.774193548387097,72
+71,Executive Secretary,5.777777777777778,73
+100,Marketing Manager,5.782608695652174,74
+154,Software Consultant,5.7894736842105265,75
+94,Information Systems Manager,5.806451612903226,76
+72,Financial Advisor,5.818181818181818,77
+155,Software Engineer I,5.833333333333333,78
+80,Geologist III,5.833333333333333,78
+117,Pharmacist,5.84,79
+48,Computer Systems Analyst IV,5.846153846153846,80
+70,Environmental Tech,5.85,81
+6,Accountant I,5.857142857142857,82
+132,Recruiter,5.866666666666666,83
+143,Safety Technician III,5.875,84
+123,Programmer Analyst III,5.888888888888889,85
+120,Professor,5.928571428571429,86
+19,Administrative Officer,5.9393939393939394,87
+153,Social Worker,5.947368421052632,88
+151,Senior Quality Engineer,5.958333333333333,89
+97,Legal Assistant,5.972972972972973,90
+125,Programmer I,6.0,91
+91,Human Resources Assistant III,6.0,91
+92,Human Resources Assistant IV,6.0,91
+47,Computer Systems Analyst III,6.0,91
+66,Engineer II,6.0,91
+67,Engineer III,6.0,91
+84,Health Coach II,6.0,91
+118,Physical Therapy Assistant,6.041666666666667,92
+56,Design Engineer,6.1,93
+9,Accountant IV,6.1,93
+65,Engineer I,6.111111111111111,94
+30,Biostatistician I,6.125,95
+126,Programmer II,6.142857142857143,96
+82,Graphic Designer,6.142857142857143,96
+27,Automation Specialist II,6.142857142857143,96
+73,Financial Analyst,6.166666666666667,97
+131,Quality Engineer,6.178571428571429,98
+107,Nurse,6.1923076923076925,99
+133,Recruiting Manager,6.193548387096774,100
+122,Programmer Analyst II,6.222222222222222,101
+14,Actuary,6.24,102
+167,Staff Accountant IV,6.25,103
+140,Research Nurse,6.258064516129032,104
+163,Speech Pathologist,6.258064516129032,104
+112,Office Assistant III,6.285714285714286,105
+142,Safety Technician II,6.3076923076923075,106
+164,Staff Accountant I,6.333333333333333,107
+171,Statistician III,6.333333333333333,107
+18,Administrative Assistant IV,6.4,108
+106,Nuclear Power Engineer,6.40625,109
+24,Assistant Professor,6.424242424242424,110
+136,Research Assistant II,6.428571428571429,111
+42,Clinical Specialist,6.448275862068965,112
+189,Web Designer III,6.5,113
+111,Office Assistant II,6.5,113
+12,Accounting Assistant III,6.5,113
+90,Human Resources Assistant II,6.5,113
+156,Software Engineer II,6.571428571428571,114
+87,Help Desk Operator,6.576923076923077,115
+36,Budget/Accounting Analyst III,6.666666666666667,116
+152,Senior Sales Associate,6.666666666666667,116
+113,Office Assistant IV,6.666666666666667,116
+192,Web Developer II,6.666666666666667,116
+78,Geologist I,6.7,117
+31,Biostatistician II,6.714285714285714,118
+177,Systems Administrator III,6.75,119
+170,Statistician II,6.777777777777778,120
+40,Chief Design Engineer,6.782608695652174,121
+191,Web Developer I,6.833333333333333,122
+183,VP Marketing,6.925925925925926,123
+58,Developer I,7.0,124
+34,Budget/Accounting Analyst I,7.0,124
+85,Health Coach III,7.0,124
+28,Automation Specialist III,7.0,124
+86,Health Coach IV,7.111111111111111,125
+46,Computer Systems Analyst II,7.166666666666667,126
+102,Media Manager I,7.2,127
+51,Database Administrator I,7.25,128
+188,Web Designer II,7.333333333333333,129
+26,Automation Specialist I,7.375,130
+138,Research Assistant IV,7.6,131
+61,Developer IV,7.75,132
+10,Accounting Assistant I,7.875,133
+16,Administrative Assistant II,8.0,134
+83,Health Coach I,9.0,135
+124,Programmer Analyst IV,9.0,135
+194,Web Developer IV,9.0,135
